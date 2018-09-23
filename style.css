@@ -1,6 +1,19 @@
 body{
 font-family: 'Spirax', cursive;
+background-color:#bfbdbd;
 }
+#contact{
+ background-color:#bfbdbd;   
+ color:#4d007d;
+}
+#secondpage{   
+    background-color:#4d007d;
+    color:white;
+    font-size:20px;
+    text-align: center;
+}
+
+
 .row{   
 
     background-color:#4d007d;
@@ -29,16 +42,6 @@ a{
     text-decoration: none;
  color:white;
 }
-#contact{
- background-color:#bfbdbd;   
- color:#4d007d;
-}
-
-#secondpage{   
-    background-color:#4d007d;
-    color:#4d007d;
-    font-size:20px;
-    font-family: 'Spirax', cursive;
-    
- 
+a:hover{
+    color:#b5e4f4;
 }
