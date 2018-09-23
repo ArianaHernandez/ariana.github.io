@@ -1,0 +1,44 @@
+body{
+font-family: 'Spirax', cursive;
+}
+.row{   
+
+    background-color:#4d007d;
+    color:white;
+    font-size:20px;
+    display:flex;
+    justify-content:space-around;
+}
+.headshot{
+    width:20%;
+}
+.mid{
+    background-color:#bfbdbd;
+    color:black;
+    align-items:center;
+    font-size:30px;
+}
+.aboutme{
+    border:1px solid black;   
+}
+#img2{
+ height:500px;   
+ width: 525px;
+}
+a{
+    text-decoration: none;
+ color:white;
+}
+#contact{
+ background-color:#bfbdbd;   
+ color:#4d007d;
+}
+
+#secondpage{   
+    background-color:#4d007d;
+    color:#4d007d;
+    font-size:20px;
+    font-family: 'Spirax', cursive;
+    
+ 
+}
